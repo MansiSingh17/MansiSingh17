@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Software Developer** with 3+ years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Information Systems** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
+I'm a passionate **Full Stack Software Developer** with 2.5 years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Information Systems** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
 
 - 🔭 Currently working on **AI-powered audit automation platforms** and **cloud storage solutions**
 - 🌱 Learning advanced **cloud architecture** and **machine learning** techniques
@@ -238,7 +238,7 @@ const mansi = {
     location: "Seattle, WA",
     education: "MS in Information Systems @ Northeastern University",
     currentlyLearning: ["Advanced Cloud Architecture", "Machine Learning", "System Design"],
-    lookingFor: "Full-time Software Engineering opportunities for 2027",
+    lookingFor: "Software Engineering Internship opportunities for Summer 2026",
     interests: ["AI/ML", "Cloud Computing", "Full Stack Development", "DevOps"],
     funFact: "I reduced deployment failures by 50% and love automating repetitive tasks!"
 };
