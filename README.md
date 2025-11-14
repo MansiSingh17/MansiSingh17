@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;AI+%26+Cloud+Enthusiast;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-mansi17/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansiSingh17)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansimaanu8627@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-bijafckeh-mansi-singhs-projects-1e22c713.vercel.app)
 
 📍 **Seattle, WA** | 🎓 **MS in Information Systems @ Northeastern University** | 💼 **Ex-Nokia, Ex-Grant Thornton**
 
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Software Developer** with 2.5 years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Information Systems** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
+I'm a passionate **Full Stack Software Developer** with 3+ years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Information Systems** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
 
 - 🔭 Currently working on **AI-powered audit automation platforms** and **cloud storage solutions**
 - 🌱 Learning advanced **cloud architecture** and **machine learning** techniques
@@ -63,6 +63,7 @@ I'm a passionate **Full Stack Software Developer** with 2.5 years of experience 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)]()
 
 ### Tools & Others
@@ -137,6 +138,8 @@ Full-stack audit automation platform with:
 - 🤖 NLP-based report generation using HuggingFace T5
 - ⚡ **70% reduction in manual effort**
 
+[View Project →](https://github.com/MansiSingh17/auditiq)
+
 </td>
 <td width="50%">
 
@@ -151,9 +154,27 @@ File management web application featuring:
 - ⚡ ImageKit integration for optimized delivery
 - 🗄️ PostgreSQL with Drizzle ORM
 
+[View Project →](https://github.com/MansiSingh17/orbitfiles)
+
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+### 🗺️ Seattle Service Hub
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
+
+AI-powered service management platform:
+- 🗺️ Interactive maps tracking 5,000+ requests
+- 🤖 AI chatbot assistant
+- 📊 Real-time analytics dashboard
+- ⭐ Community feedback system
+
+[View Project →](https://github.com/MansiSingh17/seattle-service-hub)
+
+</td>
 <td width="50%">
 
 ### ✨ SnapGlow - Image Enhancement
@@ -167,18 +188,7 @@ Image processing application with:
 - ↩️ Undo/redo functionality
 - **40% time reduction** for repetitive tasks
 
-</td>
-<td width="50%">
-
-### 🐉 Dragon Heaven
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
-
-Multi-page responsive website featuring:
-- 📱 12-column grid system
-- ♿ WCAG compliant accessibility
-- 🎯 Semantic HTML5
-- 🎨 Custom CSS animations
+[View Project →](https://github.com/MansiSingh17/snapglow)
 
 </td>
 </tr>
@@ -220,7 +230,6 @@ Multi-page responsive website featuring:
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -231,6 +240,8 @@ Multi-page responsive website featuring:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiSingh17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+---
 
 ## 🎯 Current Focus
 ```javascript
@@ -252,9 +263,10 @@ const mansi = {
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-mansi17/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansimaanu8627@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-bijafckeh-mansi-singhs-projects-1e22c713.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansiSingh17)
 
 </div>
 
@@ -264,8 +276,8 @@ const mansi = {
 
 ### 💡 "Building scalable solutions and automating the future, one commit at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MansiSingh17&color=blueviolet&style=for-the-badge)
 
-⭐️ **From [Mansi Singh](https://github.com/your-username)** ⭐️
+⭐️ **From [Mansi Singh](https://github.com/MansiSingh17)** ⭐️
 
 </div>
