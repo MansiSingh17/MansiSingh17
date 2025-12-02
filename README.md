@@ -265,7 +265,7 @@ const mansi = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-mansi17/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansimaanu8627@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-bijafckeh-mansi-singhs-projects-1e22c713.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-35fnzx4og-mansi-singhs-projects-1e22c713.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansiSingh17)
 
 </div>
