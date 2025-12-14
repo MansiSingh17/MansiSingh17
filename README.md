@@ -131,36 +131,6 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ## 🚀 Featured Projects
 
-### 📁 Mini Google Drive - AI-Powered Document Management System
-
-**Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | OpenAI API | Apache Tika | JWT | AES-256 | Material-UI 🔗 [GitHub Repo](https://github.com/MansiSingh17/mini-google-drive)
-
-🚀 An intelligent cloud document management platform that doesn't just store files but it understands them. Using advanced NLP and AI, the system automatically extracts keywords, generates summaries, and enables semantic search across documents. Built with enterprise-grade security and modern cloud architecture, it transforms traditional file storage into a smart knowledge management system.
-
-**Key Features:**
-- 🤖 **AI-Powered NLP Pipeline:** Automated text extraction, keyword generation, and document summarization using OpenAI GPT-3.5
-- 🔍 **Semantic Search:** Natural language queries with vector embeddings (1536 dimensions, 78% precision threshold)
-- 🔒 **Enterprise Security:** AES-256 encryption, JWT authentication, BCrypt password hashing
-- ☁️ **Cloud Architecture:** AWS S3 storage with 15GB limit enforcement and MongoDB Atlas
-- 📊 **Smart UI:** Expandable keyword tags, auto-generated summaries, real-time updates with zero page reloads
-
----
-
-### 🖼️ Image Database System
-
-**Tech Stack:** Python | Scikit-Learn | NumPy  
-🔗 [GitHub Repo](https://github.com/MansiSingh17/image-database-system)
-
-🚀 An advanced image database system that simulates real-world image storage and retrieval, enhanced with intelligent machine learning capabilities. It uses modern techniques for data indexing, dimensionality reduction, and similarity-based image search, ensuring fast and efficient image classification and access. By leveraging multiple statistical and visual recognition models, the system can accurately detect subjects and find related images based on key visual features, making it well-suited for a wide range of image-driven applications.
-
-**Key Features:**
-- 📊 **Data indexing and dimensionality reduction techniques**
-- 🔍 **Image similarity search functionality**
-- 🤖 **Multiple statistical classification models for subject identification**
-- 👤 **Person identification from query images using machine learning**
-
----
-
 ### 🔍 AuditIQ - Audit Quality Assistant
 
 **Tech Stack:** Python | Spring Boot | React | Redis | PostgreSQL | HuggingFace T5  
