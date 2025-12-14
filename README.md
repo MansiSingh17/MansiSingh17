@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansiSingh17)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansimaanu8627@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-35fnzx4og-mansi-singhs-projects-1e22c713.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/progress/)
 
 📍 **Seattle, WA** | 🎓 **MS in Information Systems @ Northeastern University** | 💼 **Ex-Nokia, Ex-Grant Thornton**
 
@@ -74,25 +75,33 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ---
 
-## 🏆 Achievements & Impact
+## 📚 Education
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎖️ Recognition
-- **🏅 Applause Award** - Nokia Solutions
-  - Developed AI Assistant using ML algorithms
-  - Improved efficiency by **70%** for 50+ team members
+### 🎓 Northeastern University
+**Master of Science, Information Systems**  
+📍 Seattle, WA | 🗓️ Sep 2025 – May 2027  
+📊 **GPA: 3.87/4.0**
+
+**Relevant Courses:**
+- Application Engineering & Development
+- Web Design & UX Engineering
 
 </td>
 <td width="50%">
 
-### 📈 Key Metrics
-- **70%** reduction in manual search time
-- **50%** reduction in deployment failures
-- **40%** reduction in post-release defects
-- **35%** improvement in response times
+### 🎓 Abdul Kalam Technical University
+**Bachelor of Technology, CSE**  
+📍 Uttar Pradesh, India | 🗓️ July 2015 – Jun 2019  
+📊 **GPA: 3.37/4.0**
+
+**Relevant Courses:**
+- Data Structures & Algorithms
+- Software Systems & Design
+- Web Development (Full Stack)
 
 </td>
 </tr>
@@ -105,7 +114,7 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 ### 🔷 Software Developer @ Nokia Solutions
 **May 2024 – Aug 2025 | Gurgaon, India**
 
-- 🤖 Built **AI Assistant** using Python, NLP & GPT API - parsed 5,000+ documents
+- 🤖 Built **AI Assistant** using Python, NLP & GPT API that parsed 5,000+ documents
 - 🚀 Led DevOps integration for **CI/CD pipelines** across 4 cross-functional teams
 - ⚡ Implemented **Apache Kafka** for automated rejection reprocessing
 - 👨‍🏫 Mentored developers & QA teams in Agile environments
@@ -116,7 +125,7 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 - 📊 Developed full-stack **monitoring & analysis tool** for 3,000+ projects
 - 🔄 Implemented CI/CD pipelines for **15+ microservices** using Jenkins & Docker
 - 🎨 Collaborated on **UI/UX design** and REST API development
-- 🧪 Created automation testing framework - saved **120+ hours monthly**
+- 🧪 Created automation testing framework that saved **120+ hours monthly**
 
 ---
 
@@ -196,37 +205,13 @@ Image processing application with:
 
 ---
 
-## 📚 Education
+## 💪 LeetCode Progress
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🎓 Northeastern University
-**Master of Science, Information Systems**  
-📍 Seattle, WA | 🗓️ Sep 2025 – May 2027  
-📊 **GPA: 3.87/4.0**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/progress?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/progress/)
 
-**Relevant Courses:**
-- Application Engineering & Development
-- Web Design & UX Engineering
-
-</td>
-<td width="50%">
-
-### 🎓 Abdul Kalam Technical University
-**Bachelor of Technology, CSE**  
-📍 Uttar Pradesh, India | 🗓️ July 2015 – Jun 2019  
-📊 **GPA: 3.37/4.0**
-
-**Relevant Courses:**
-- Data Structures & Algorithms
-- Software Systems & Design
-- Web Development (Full Stack)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -243,7 +228,34 @@ Image processing application with:
 
 ---
 
+## 🏆 Achievements & Impact
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎖️ Recognition
+- **🏅 Applause Award** - Nokia Solutions
+  - Developed AI Assistant using ML algorithms
+  - Improved efficiency by **70%** for 50+ team members
+
+</td>
+<td width="50%">
+
+### 📈 Key Metrics
+- **70%** reduction in manual search time
+- **50%** reduction in deployment failures
+- **40%** reduction in post-release defects
+- **35%** improvement in response times
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 Current Focus
+
 ```javascript
 const mansi = {
     location: "Seattle, WA",
