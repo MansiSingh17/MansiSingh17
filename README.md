@@ -131,77 +131,98 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 📁 Mini Google Drive - AI-Powered Document Management System
+
+**Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | OpenAI API | Apache Tika | JWT | AES-256 | Material-UI 🔗 [GitHub Repo](https://github.com/MansiSingh17/mini-google-drive)
+
+🚀 An intelligent cloud document management platform that doesn't just store files but it understands them. Using advanced NLP and AI, the system automatically extracts keywords, generates summaries, and enables semantic search across documents. Built with enterprise-grade security and modern cloud architecture, it transforms traditional file storage into a smart knowledge management system.
+
+**Key Features:**
+- 🤖 **AI-Powered NLP Pipeline:** Automated text extraction, keyword generation, and document summarization using OpenAI GPT-3.5
+- 🔍 **Semantic Search:** Natural language queries with vector embeddings (1536 dimensions, 78% precision threshold)
+- 🔒 **Enterprise Security:** AES-256 encryption, JWT authentication, BCrypt password hashing
+- ☁️ **Cloud Architecture:** AWS S3 storage with 15GB limit enforcement and MongoDB Atlas
+- 📊 **Smart UI:** Expandable keyword tags, auto-generated summaries, real-time updates with zero page reloads
+
+---
+
+### 🖼️ Image Database System
+
+**Tech Stack:** Python | Scikit-Learn | NumPy  
+🔗 [GitHub Repo](https://github.com/MansiSingh17/image-database-system)
+
+🚀 An advanced image database system that simulates real-world image storage and retrieval, enhanced with intelligent machine learning capabilities. It uses modern techniques for data indexing, dimensionality reduction, and similarity-based image search, ensuring fast and efficient image classification and access. By leveraging multiple statistical and visual recognition models, the system can accurately detect subjects and find related images based on key visual features, making it well-suited for a wide range of image-driven applications.
+
+**Key Features:**
+- 📊 **Data indexing and dimensionality reduction techniques**
+- 🔍 **Image similarity search functionality**
+- 🤖 **Multiple statistical classification models for subject identification**
+- 👤 **Person identification from query images using machine learning**
+
+---
 
 ### 🔍 AuditIQ - Audit Quality Assistant
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)]()
 
-Full-stack audit automation platform with:
-- 📋 Automated checklist generation
-- 🔒 Security standards compliance (ISO 27001, GDPR, HIPAA)
-- 🤖 NLP-based report generation using HuggingFace T5
-- ⚡ **70% reduction in manual effort**
+**Tech Stack:** Python | Spring Boot | React | Redis | PostgreSQL | HuggingFace T5  
+🔗 [GitHub Repo](https://github.com/MansiSingh17/auditiq)
 
-[View Project →](https://github.com/MansiSingh17/auditiq)
+🚀 Full-stack audit automation platform that streamlines compliance processes and quality assessments. The system generates automated checklists, ensures adherence to security standards, and produces comprehensive reports using natural language processing.
 
-</td>
-<td width="50%">
+**Key Features:**
+- 📋 **Automated checklist generation** for various audit types
+- 🔒 **Security standards compliance** (ISO 27001, GDPR, HIPAA)
+- 🤖 **NLP-based report generation** using HuggingFace T5 models
+- ⚡ **70% reduction in manual effort** through intelligent automation
+- 💾 **Redis caching** for optimal performance
+
+---
 
 ### ☁️ OrbitFiles - Cloud Storage Platform
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
 
-File management web application featuring:
-- 🔐 Secure authentication with Clerk
-- 📁 File upload, star, and trash management
-- ⚡ ImageKit integration for optimized delivery
-- 🗄️ PostgreSQL with Drizzle ORM
+**Tech Stack:** Next.js | Node.js | PostgreSQL | Clerk | ImageKit | Drizzle ORM  
+🔗 [GitHub Repo](https://github.com/MansiSingh17/orbitfiles)
 
-[View Project →](https://github.com/MansiSingh17/orbitfiles)
+🚀 Modern file management web application featuring secure authentication, optimized file delivery, and intuitive user interface for managing digital assets.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Key Features:**
+- 🔐 **Secure authentication** with Clerk
+- 📁 **File upload, star, and trash management**
+- ⚡ **ImageKit integration** for optimized image delivery
+- 🗄️ **PostgreSQL** with Drizzle ORM for efficient data management
+- 🎨 **Responsive UI** with modern design patterns
+
+---
 
 ### 🗺️ Seattle Service Hub
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
 
-AI-powered service management platform:
-- 🗺️ Interactive maps tracking 5,000+ requests
-- 🤖 AI chatbot assistant
-- 📊 Real-time analytics dashboard
-- ⭐ Community feedback system
+**Tech Stack:** React | Leaflet | Node.js | MongoDB | OpenAI API  
+🔗 [GitHub Repo](https://github.com/MansiSingh17/seattle-service-hub)
 
-[View Project →](https://github.com/MansiSingh17/seattle-service-hub)
+🚀 AI-powered service management platform that helps Seattle residents track and manage municipal service requests through interactive mapping and intelligent assistance.
 
-</td>
-<td width="50%">
+**Key Features:**
+- 🗺️ **Interactive maps** tracking 5,000+ service requests
+- 🤖 **AI chatbot assistant** for user guidance
+- 📊 **Real-time analytics dashboard** with visualization
+- ⭐ **Community feedback system** for service quality
+- 📱 **Mobile-responsive design** for on-the-go access
+
+---
 
 ### ✨ SnapGlow - Image Enhancement
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
-[![MVC](https://img.shields.io/badge/MVC-Pattern-blue?style=flat-square)]()
 
-Image processing application with:
-- 🎨 MVC architecture & OOP design
-- 🖼️ Image visualization & manipulation
-- ⚡ Batch processing capabilities
-- ↩️ Undo/redo functionality
-- **40% time reduction** for repetitive tasks
+**Tech Stack:** Java | MVC Pattern | Swing | OOP Design  
+🔗 [GitHub Repo](https://github.com/MansiSingh17/snapglow)
 
-[View Project →](https://github.com/MansiSingh17/snapglow)
+🚀 Professional image processing application built with clean architecture principles, offering comprehensive editing capabilities and batch processing features.
 
-</td>
-</tr>
-</table>
+**Key Features:**
+- 🎨 **MVC architecture** with strict OOP design patterns
+- 🖼️ **Image visualization** and real-time manipulation
+- ⚡ **Batch processing** capabilities for multiple images
+- ↩️ **Undo/redo functionality** for non-destructive editing
+- **40% time reduction** for repetitive image processing tasks
+- 🎯 **Filter library** including blur, sharpen, sepia, and custom filters
 
 ---
 
@@ -209,7 +230,25 @@ Image processing application with:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/progress?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/progress/)
+### 🏆 Coding Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/progress?theme=dark&font=Poppins&ext=heatmap)
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Easy-Solved-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Medium-Solved-F0AD4E?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Hard-Solved-D9534F?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-View_All_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/progress/)
 
 </div>
 
@@ -223,6 +262,10 @@ Image processing application with:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiSingh17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiSingh17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 📈 Contribution Graph
+
+[![Mansi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MansiSingh17&theme=tokyo-night&hide_border=true)](https://github.com/MansiSingh17)
 
 </div>
 
