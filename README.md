@@ -164,9 +164,9 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ---
 
-### 🗺️ Seattle Service Hub
+### 🗺️ HeyCity
 
-**Tech Stack:** React | Leaflet | Node.js | MongoDB | OpenAI API  
+**Tech Stack:** React 18 | OpenAI GPT-3.5 | JavaScript | CSS3 | Recharts | Node.js | Geolocation API
 🔗 [GitHub Repo](https://github.com/MansiSingh17/seattle-service-hub)
 
 🚀 AI-powered service management platform that helps Seattle residents track and manage municipal service requests through interactive mapping and intelligent assistance.
