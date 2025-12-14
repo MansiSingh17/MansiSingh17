@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansiSingh17)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansimaanu8627@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-35fnzx4og-mansi-singhs-projects-1e22c713.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/progress/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mansi1727/)
 
 📍 **Seattle, WA** | 🎓 **MS in Information Systems @ Northeastern University** | 💼 **Ex-Nokia, Ex-Grant Thornton**
 
@@ -84,7 +84,7 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 ### 🎓 Northeastern University
 **Master of Science, Information Systems**  
 📍 Seattle, WA | 🗓️ Sep 2025 – May 2027  
-📊 **GPA: 4.0/4.0**
+📊 **GPA: 3.87/4.0**
 
 **Relevant Courses:**
 - Application Engineering & Development
@@ -131,6 +131,35 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ## 🚀 Featured Projects
 
+### 📁 Mini Google Drive - AI-Powered Document Management System
+
+**Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | OpenAI API | Apache Tika | JWT | AES-256 | Material-UI 🔗 [GitHub Repo](https://github.com/MansiSingh17/mini-google-drive)
+
+🚀 An intelligent cloud document management platform that doesn't just store files but it understands them. Using advanced NLP and AI, the system automatically extracts keywords, generates summaries, and enables semantic search across documents. Built with enterprise-grade security and modern cloud architecture, it transforms traditional file storage into a smart knowledge management system.
+
+**Key Features:**
+- 🤖 **AI-Powered NLP Pipeline:** Automated text extraction, keyword generation, and document summarization using OpenAI GPT-3.5
+- 🔍 **Semantic Search:** Natural language queries with vector embeddings (1536 dimensions, 78% precision threshold)
+- 🔒 **Enterprise Security:** AES-256 encryption, JWT authentication, BCrypt password hashing
+- ☁️ **Cloud Architecture:** AWS S3 storage with 15GB limit enforcement and MongoDB Atlas
+- 📊 **Smart UI:** Expandable keyword tags, auto-generated summaries, real-time updates with zero page reloads
+
+---
+
+### 🖼️ Image Database System
+
+**Tech Stack:** Python | Scikit-Learn | NumPy  
+🔗 [GitHub Repo](https://github.com/MansiSingh17/image-database-system)
+
+🚀 An advanced image database system that simulates real-world image storage and retrieval, enhanced with intelligent machine learning capabilities. It uses modern techniques for data indexing, dimensionality reduction, and similarity-based image search, ensuring fast and efficient image classification and access. By leveraging multiple statistical and visual recognition models, the system can accurately detect subjects and find related images based on key visual features, making it well-suited for a wide range of image-driven applications.
+
+**Key Features:**
+- 📊 **Data indexing and dimensionality reduction techniques**
+- 🔍 **Image similarity search functionality**
+- 🤖 **Multiple statistical classification models for subject identification**
+- 👤 **Person identification from query images using machine learning**
+
+---
 
 ### 🔍 AuditIQ - Audit Quality Assistant
 
@@ -164,9 +193,9 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ---
 
-### 🗺️ HeyCity
+### 🗺️ Seattle Service Hub
 
-**Tech Stack:** React 18 | OpenAI GPT-3.5 | JavaScript | CSS3 | Recharts | Node.js | Geolocation API
+**Tech Stack:** React | Leaflet | Node.js | MongoDB | OpenAI API  
 🔗 [GitHub Repo](https://github.com/MansiSingh17/seattle-service-hub)
 
 🚀 AI-powered service management platform that helps Seattle residents track and manage municipal service requests through interactive mapping and intelligent assistance.
@@ -203,23 +232,31 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ### 🏆 Coding Statistics
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/progress?theme=dark&font=Poppins&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mansi1727?theme=dark&font=Poppins&ext=heatmap)
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Easy-Solved-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Easy-95_Solved-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Medium-Solved-F0AD4E?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-175_Solved-F0AD4E?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Hard-Solved-D9534F?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hard-7_Solved-D9534F?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<img src="https://img.shields.io/badge/Total_Solved-277_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </td>
 </tr>
 </table>
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-View_All_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/progress/)
+### 📊 Performance Metrics
+**🎯 Beats 96.3% of Users | 📈 999 Submissions | ✅ 86.3% Acceptance Rate**
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-View_All_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mansi1727/)
 
 </div>
 
