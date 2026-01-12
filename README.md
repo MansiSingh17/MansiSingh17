@@ -109,25 +109,6 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ---
 
-## 💼 Professional Experience
-
-### 🔷 Software Developer @ Nokia Solutions
-**May 2024 – Aug 2025 | Gurgaon, India**
-
-- 🤖 Built **AI Assistant** using Python, NLP & GPT API that parsed 5,000+ documents
-- 🚀 Led DevOps integration for **CI/CD pipelines** across 4 cross-functional teams
-- ⚡ Implemented **Apache Kafka** for automated rejection reprocessing
-- 👨‍🏫 Mentored developers & QA teams in Agile environments
-
-### 🔷 Software Developer @ Grant Thornton
-**Nov 2022 – May 2024 | Noida, India**
-
-- 📊 Developed full-stack **monitoring & analysis tool** for 3,000+ projects
-- 🔄 Implemented CI/CD pipelines for **15+ microservices** using Jenkins & Docker
-- 🎨 Collaborated on **UI/UX design** and REST API development
-- 🧪 Created automation testing framework that saved **120+ hours monthly**
-
----
 
 ## 🚀 Featured Projects
 
