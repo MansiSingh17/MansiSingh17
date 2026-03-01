@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-seven-teal-21.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mansi1727/)
 
-📍 **Seattle, WA** | 🎓 **MS in Information Systems @ Northeastern University** | 💼 **Ex-Nokia, Ex-Grant Thornton**
+📍 **Seattle, WA** | 🎓 **MS in Computer Engineering - Information Systems @ Northeastern University** | 💼 **Ex-Nokia, Ex-Grant Thornton**
 
 </div>
 
@@ -23,9 +23,8 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 - 🔭 Currently working on **AI-powered audit automation platforms** and **distributed cloud storage solutions**
 - 🌱 Learning advanced **cloud architecture** and **machine learning** techniques
 - 💡 Reduced manual search time by **70%** with an AI Assistant at Nokia
-- 🏆 **AWS Certified Developer Associate (2025)**
 - 🎯 Reduced deployment failures by **50%** through CI/CD automation
-- 📫 Reach me at: **mansisingh171997@gmail.com**
+- 📫 Reach me at: **singh.m1@northeastern.edu**
 
 ---
 
@@ -82,7 +81,7 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 <td width="50%">
 
 ### 🎓 Northeastern University
-**Master of Science, Information Systems**
+**Master of Science, Computer Engineering - Information Systems**
 📍 Seattle, WA | 🗓️ Sep 2025 – May 2027
 📊 **GPA: 4.0/4.0**
 
