@@ -20,58 +20,58 @@
 
 I'm a passionate **Full Stack Software Developer** with 3+ years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Information Systems** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
 
-- 🔭 Currently working on **AI-powered audit automation platforms** and **cloud storage solutions**
+- 🔭 Currently working on **AI-powered audit automation platforms** and **distributed cloud storage solutions**
 - 🌱 Learning advanced **cloud architecture** and **machine learning** techniques
 - 💡 Reduced manual search time by **70%** with an AI Assistant at Nokia
 - 🏆 **AWS Certified Developer Associate (2025)**
-- 🎯 Improved deployment efficiency by **50%** through DevOps integration
-- 📫 Reach me at: **mansimaanu8627@gmail.com**
+- 🎯 Reduced deployment failures by **50%** through CI/CD automation
+- 📫 Reach me at: **mansisingh171997@gmail.com**
 
 ---
 
 ## 💻 Tech Stack
 
 ### Programming Languages
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 ### Frontend Development
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)]()
 
 ### Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]()
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
 
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
-
-### Cloud & DevOps
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+### DevOps & Systems
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)]()
-
-### Tools & Others
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)]()
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+
+### Cloud & Distributed Systems
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)]()
+
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+
+### AI / ML
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]()
 
 ---
 
@@ -82,26 +82,29 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 <td width="50%">
 
 ### 🎓 Northeastern University
-**Master of Science, Information Systems**  
-📍 Seattle, WA | 🗓️ Sep 2025 – May 2027  
-📊 **GPA: 3.87/4.0**
+**Master of Science, Information Systems**
+📍 Seattle, WA | 🗓️ Sep 2025 – May 2027
+📊 **GPA: 4.0/4.0**
 
 **Relevant Courses:**
-- Application Engineering & Development
-- Web Design & UX Engineering
+- Database Management Systems
+- Design Paradigm
+- Web Development
+- Cloud Computing
 
 </td>
 <td width="50%">
 
 ### 🎓 Abdul Kalam Technical University
-**Bachelor of Technology, CSE**  
-📍 Uttar Pradesh, India | 🗓️ July 2015 – Jun 2019  
-📊 **GPA: 3.37/4.0**
+**Bachelor of Technology, Computer Science**
+📍 Uttar Pradesh, India | 🗓️ July 2015 – Jun 2019
+📊 **GPA: 8.3/10.0**
 
 **Relevant Courses:**
 - Data Structures & Algorithms
-- Software Systems & Design
-- Web Development (Full Stack)
+- Operating Systems
+- Computer Networks
+- Algorithm Design
 
 </td>
 </tr>
@@ -109,71 +112,65 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ---
 
+## 💼 Experience
+
+### Software Developer — Nokia Solutions
+📍 Gurgaon, India | 🗓️ May 2024 – Aug 2025
+
+- Designed an AI-powered internal assistant using Python, REST APIs, and GPT-based NLP to centralize search across 5,000+ internal documents, **reducing information retrieval time by 70%** for 50+ engineers.
+- Implemented automated CI/CD pipelines with monitoring and rollback strategies across 4 engineering teams, **reducing deployment failures by 50%**.
+- Architected an Apache Kafka-based event reprocessing system for network telemetry pipelines to automatically recover schema/validation failures in thousands of JSON packets, **cutting error rates to <1%**.
+- Authored production design documents and drove cross-team technical alignment across 4 engineering teams, **reducing incident rates by 30%** and shortening release cycles from 2 weeks to 1 week.
+
+### Software Developer (Internal Audit Team) — Grant Thornton
+📍 Noida, India | 🗓️ Nov 2022 – May 2024
+
+- Built a full-stack project management platform with React, Python, and PostgreSQL to centralize workflows for 3,000+ projects, **cutting operational response time by 35%**.
+- Developed containerized CI/CD pipelines using Docker, Jenkins, and Git with automated testing and quality gates for 15+ microservices, **reducing post-release defects by 60%**.
+- Optimized high-traffic REST APIs and frontend performance by improving database queries and caching strategies, **reducing response times by 20%** and supporting 300+ concurrent users.
+
+---
 
 ## 🚀 Featured Projects
 
-### 🔍 AuditIQ - Audit Quality Assistant
-
-**Tech Stack:** Python | Spring Boot | React | Redis | PostgreSQL | HuggingFace T5  
-🔗 [GitHub Repo](https://github.com/MansiSingh17/auditiq)
-
-🚀 Full-stack audit automation platform that streamlines compliance processes and quality assessments. The system generates automated checklists, ensures adherence to security standards, and produces comprehensive reports using natural language processing.
-
-**Key Features:**
-- 📋 **Automated checklist generation** for various audit types
-- 🔒 **Security standards compliance** (ISO 27001, GDPR, HIPAA)
-- 🤖 **NLP-based report generation** using HuggingFace T5 models
-- ⚡ **70% reduction in manual effort** through intelligent automation
-- 💾 **Redis caching** for optimal performance
-
----
-
-### ☁️ OrbitFiles - Cloud Storage Platform
-
-**Tech Stack:** Next.js | Node.js | PostgreSQL | Clerk | ImageKit | Drizzle ORM  
+### ☁️ OrbitFiles — Distributed Cloud Storage Platform
+**Tech Stack:** Next.js | TypeScript | PostgreSQL | OpenAI | CDN
 🔗 [GitHub Repo](https://github.com/MansiSingh17/orbitfiles)
 
-🚀 Modern file management web application featuring secure authentication, optimized file delivery, and intuitive user interface for managing digital assets.
+Engineered a distributed cloud storage platform supporting authenticated access, lifecycle tracking, and 5GB+ file uploads with document chat for semantic search.
 
 **Key Features:**
-- 🔐 **Secure authentication** with Clerk
-- 📁 **File upload, star, and trash management**
-- ⚡ **ImageKit integration** for optimized image delivery
-- 🗄️ **PostgreSQL** with Drizzle ORM for efficient data management
-- 🎨 **Responsive UI** with modern design patterns
+- 🔐 SHA-256 deduplication reducing storage redundancy by **30%**
+- ⚡ OpenAI-powered metadata tagging improving file search speed by **40%**
+- 📁 File upload, star, and trash management with CDN caching
+- 🗄️ PostgreSQL with full lifecycle tracking
 
 ---
 
-### 🗺️ Seattle Service Hub
+### 🔍 AuditIQ — AI Audit Automation Platform
+**Tech Stack:** React | Spring Boot | Python | HuggingFace T5 | Docker | Kubernetes
+🔗 [GitHub Repo](https://github.com/MansiSingh17/auditiq)
 
-**Tech Stack:** React | Leaflet | Node.js | MongoDB | OpenAI API  
-🔗 [GitHub Repo](https://github.com/MansiSingh17/seattle-service-hub)
-
-🚀 AI-powered service management platform that helps Seattle residents track and manage municipal service requests through interactive mapping and intelligent assistance.
+Production-ready audit automation platform with AI chatbot workflows and compliance automation for audit teams.
 
 **Key Features:**
-- 🗺️ **Interactive maps** tracking 5,000+ service requests
-- 🤖 **AI chatbot assistant** for user guidance
-- 📊 **Real-time analytics dashboard** with visualization
-- ⭐ **Community feedback system** for service quality
-- 📱 **Mobile-responsive design** for on-the-go access
+- 🤖 HuggingFace T5 models for risk analysis workflows
+- ⚡ **70% reduction in manual audit effort** through intelligent automation
+- 🐳 Containerized microservices with Docker and Kubernetes for auto-scaling
+- 🔒 Compliance automation across security standards
 
 ---
 
-### ✨ SnapGlow - Image Enhancement
+### 📊 TechCareer Analyzer — ML Intelligence System
+**Tech Stack:** Python | BERT (PyTorch) | TensorFlow | pandas | NumPy
+🔗 [GitHub Repo](https://github.com/MansiSingh17/techcareer-analyzer)
 
-**Tech Stack:** Java | MVC Pattern | Swing | OOP Design  
-🔗 [GitHub Repo](https://github.com/MansiSingh17/snapglow)
-
-🚀 Professional image processing application built with clean architecture principles, offering comprehensive editing capabilities and batch processing features.
+End-to-end ML pipeline to analyze 10,000+ job postings and extract in-demand skills, plus a salary prediction service across 15+ roles.
 
 **Key Features:**
-- 🎨 **MVC architecture** with strict OOP design patterns
-- 🖼️ **Image visualization** and real-time manipulation
-- ⚡ **Batch processing** capabilities for multiple images
-- ↩️ **Undo/redo functionality** for non-destructive editing
-- **40% time reduction** for repetitive image processing tasks
-- 🎯 **Filter library** including blur, sharpen, sepia, and custom filters
+- 🎯 **92% skill extraction accuracy** using BERT (PyTorch)
+- 💰 **85% salary prediction accuracy** using TensorFlow on real job market data
+- 📈 Analyzed 10,000+ job postings for actionable career insights
 
 ---
 
@@ -238,17 +235,17 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 
 ### 🎖️ Recognition
 - **🏅 Applause Award** - Nokia Solutions
-  - Developed AI Assistant using ML algorithms
-  - Improved efficiency by **70%** for 50+ team members
+  - Developed AI Assistant using GPT-based NLP
+  - Improved information retrieval by **70%** for 50+ engineers
 
 </td>
 <td width="50%">
 
 ### 📈 Key Metrics
-- **70%** reduction in manual search time
+- **70%** reduction in manual search & audit effort
+- **60%** reduction in post-release defects
 - **50%** reduction in deployment failures
-- **40%** reduction in post-release defects
-- **35%** improvement in response times
+- **35%** improvement in operational response times
 
 </td>
 </tr>
@@ -278,8 +275,8 @@ const mansi = {
 **I'm always open to interesting conversations and collaboration opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-mansi17/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansimaanu8627@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-35fnzx4og-mansi-singhs-projects-1e22c713.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansisingh171997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-seven-teal-21.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansiSingh17)
 
 </div>
