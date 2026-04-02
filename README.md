@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-seven-teal-21.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mansi1727/)
 
-📍 **Seattle, WA** | 🎓 **MS in Computer Engineering - Information Systems @ Northeastern University** | 💼 **Ex-Nokia, Ex-Grant Thornton**
+📍 **Seattle, WA** | 🎓 **MS in Computer Engineering @ Northeastern University** | 💼 **Ex-Nokia**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Software Developer** with 3+ years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Information Systems** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
+I'm a passionate **Full Stack Software Developer** with 1+ years of experience building scalable enterprise applications and AI-powered solutions. Currently pursuing my **Master's in Computer Engineering** at Northeastern University, I specialize in creating innovative solutions that bridge technology and business needs.
 
 - 🔭 Currently working on **AI-powered audit automation platforms** and **distributed cloud storage solutions**
 - 🌱 Learning advanced **cloud architecture** and **machine learning** techniques
@@ -81,7 +81,7 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 <td width="50%">
 
 ### 🎓 Northeastern University
-**Master of Science, Computer Engineering - Information Systems**
+**Master of Science, Computer Engineering**
 📍 Seattle, WA | 🗓️ Sep 2025 – May 2027
 📊 **GPA: 4.0/4.0**
 
@@ -90,20 +90,6 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 - Design Paradigm
 - Web Development
 - Cloud Computing
-
-</td>
-<td width="50%">
-
-### 🎓 Abdul Kalam Technical University
-**Bachelor of Technology, Computer Science**
-📍 Uttar Pradesh, India | 🗓️ July 2015 – Jun 2019
-📊 **GPA: 8.3/10.0**
-
-**Relevant Courses:**
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Algorithm Design
 
 </td>
 </tr>
@@ -120,13 +106,6 @@ I'm a passionate **Full Stack Software Developer** with 3+ years of experience b
 - Implemented automated CI/CD pipelines with monitoring and rollback strategies across 4 engineering teams, **reducing deployment failures by 50%**.
 - Architected an Apache Kafka-based event reprocessing system for network telemetry pipelines to automatically recover schema/validation failures in thousands of JSON packets, **cutting error rates to <1%**.
 - Authored production design documents and drove cross-team technical alignment across 4 engineering teams, **reducing incident rates by 30%** and shortening release cycles from 2 weeks to 1 week.
-
-### Software Developer (Internal Audit Team) — Grant Thornton
-📍 Noida, India | 🗓️ Nov 2022 – May 2024
-
-- Built a full-stack project management platform with React, Python, and PostgreSQL to centralize workflows for 3,000+ projects, **cutting operational response time by 35%**.
-- Developed containerized CI/CD pipelines using Docker, Jenkins, and Git with automated testing and quality gates for 15+ microservices, **reducing post-release defects by 60%**.
-- Optimized high-traffic REST APIs and frontend performance by improving database queries and caching strategies, **reducing response times by 20%** and supporting 300+ concurrent users.
 
 ---
 
@@ -168,8 +147,8 @@ End-to-end ML pipeline to analyze 10,000+ job postings and extract in-demand ski
 
 **Key Features:**
 - 🎯 **92% skill extraction accuracy** using BERT (PyTorch)
-- 💰 **85% salary prediction accuracy** using TensorFlow on real job market data
-- 📈 Analyzed 10,000+ job postings for actionable career insights
+- 💰 **87% salary prediction accuracy** using TensorFlow on real job market data
+- 📈 Analyzed 1500+ job postings for actionable career insights
 
 ---
 
